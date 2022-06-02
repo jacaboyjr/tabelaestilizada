@@ -1,0 +1,38 @@
+h1{
+    font-size: 1rem
+}
+
+.cabprodutosmoda th {
+    margin: 5px;
+    padding: 3px;
+    background-color: #BB86FC;
+    color: #fffafa;
+    text-align: center;
+    font-size: .75rem
+}
+.valprodutosmoda td {
+    margin: 5px;
+    padding: 3px;
+    background-color: #424250;
+    color: white;
+    text-align: center;
+    font-size: .625rem
+}
+
+.cabprodutoscasa th {
+    margin: 5px;
+    padding: 3px;
+    background-color: #00C4B4;
+    text-align: center;
+    color: white;
+    font-size: .75rem
+}
+
+.valprodutoscasa td {
+    margin: 5px;
+    padding: 3px;
+    background-color: #424250;
+    text-align: center;
+    color: white;
+    font-size: .625rem ;
+}
